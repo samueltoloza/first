@@ -22,7 +22,8 @@ class Button extends Component{
 //     );
 // }
 
-Button.defaultProps = {
+Button.defau
+ltProps = {
     label: "Button",
     action: () => null,
 }
